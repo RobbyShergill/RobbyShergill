@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobbyShergill
+- 👋 Hi, I’m @Sohrab Shergill
 Find my profile @ www.lambton.dx.am
 - 👀 I’m interested in project management , change management , Agile , CI , Transformation opportunities 
 - 🌱 I’m currently learning pgdiploma in computer softwarr devlopment
